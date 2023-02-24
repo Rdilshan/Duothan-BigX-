@@ -3,14 +3,26 @@
 
 ## Team ID:
 
- - [49](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - 49
 
  ## Team Name:
 
- - [BigX](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - BigX
 
 
  ## Team University:
 
- - [Sabaragamuwa University of Sri Lanka](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - Sabaragamuwa University of Sri Lanka
+  ## Team Members:
+
+ - Randika Dilshan
+ - Tharidu Hashan
+ - Ravidu Bimsara
+ - Hashini Wickramashinha
+  ## mention your team members with their GitHub usernames:
+
+ - Rdilshan
+ - ravindu2
+ - tharindususl
+ - Hashini22
  
