@@ -21,8 +21,16 @@
  - Hashini Wickramashinha
   ## mention your team members with their GitHub usernames:
 
- - Rdilshan
- - ravindu2
- - tharindususl
- - Hashini22
- 
+ - Randika Dilshan-Rdilshan
+ - Tharidu Hashan-tharindususl
+ - Ravidu Bimsara-ravindu2
+ - Hashini Wickramashinha-Hashini22
+
+ ## Submission Technology Stacks/Frameworks:
+
+ - Node JS
+ - HTML
+ - CSS
+ - EJS
+ - Express JS
+ - MonogDb
